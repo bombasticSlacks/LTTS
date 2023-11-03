@@ -1,0 +1,41 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "spellcheckDictionary": [
+    "Duelist",
+    "Cryptozoologist",
+    "Herbologist",
+    "vampiric",
+    "ichor",
+    "grappler",
+    "grapplers",
+    "Scrying",
+    "Arcanists",
+    "Elementalists",
+    "Pyromancers",
+    "Dynamancy",
+    "Dynamist",
+    "Elementalist",
+    "Caravaners",
+    "Arcanist",
+    "Shapeshifters",
+    "Brigandine",
+    "Dungeoneering",
+    "orks",
+    "Sleeving",
+    "nanomachine",
+    "Veema"
+  ],
+  "showLineNumber": false,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "focusNewTab": true
+}
