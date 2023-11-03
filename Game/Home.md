@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: true
 ---
-## Look To The Sky
+## Look To The Skies
 *A Game about exploration and adventure!*
 
 ![](Content/retro-spaceship.svg)
